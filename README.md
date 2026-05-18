@@ -42,12 +42,6 @@ A Claude Code skill that automates personalized outreach to LinkedIn connections
 
 ---
 
-## GitHub Stats
-
-![Woody's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Woodz-ZZW&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Woodz-ZZW&layout=compact&hide_border=true)
-
----
 
 ## Connect With Me
 
