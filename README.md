@@ -5,15 +5,15 @@
 I'm passionate about bridging hardware fundamentals with modern software — from circuit design to AI. 
 Currently exploring how intelligent systems can solve real-world problems.
 
+Personal website: **[woodyzzw.xyz](https://woodyzzw.xyz)**
+
 ---
 
 ## About Me
 
-- 🎓 Incoming **BASc Electrical Engineering** student at the **University of Waterloo**
 - 🤖 Interested in **AI/ML**
 - 🔧 I build tools that make workflows smarter and faster
 - 📍 Based in Canada
-- 🌐 Personal website: **[woodyzzw.xyz](https://woodyzzw.xyz)**
 
 ---
 
