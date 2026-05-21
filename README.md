@@ -5,7 +5,7 @@
 I'm passionate about bridging hardware fundamentals with modern software — from circuit design to AI. 
 Currently exploring how intelligent systems can solve real-world problems.
 
-Personal website: **[woodyzzw.xyz](https://woodyzzw.xyz)**
+🌐 Personal website: **[woodyzzw.xyz](https://woodyzzw.xyz)**
 
 ---
 
