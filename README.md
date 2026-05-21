@@ -13,7 +13,7 @@ Currently exploring how intelligent systems can solve real-world problems.
 - 🤖 Interested in **AI/ML**
 - 🔧 I build tools that make workflows smarter and faster
 - 📍 Based in Canada
--  - 🌐 Personal website: **[woodyzzw.xyz](https://woodyzzw.xyz)**
+- 🌐 Personal website: **[woodyzzw.xyz](https://woodyzzw.xyz)**
 
 ---
 
