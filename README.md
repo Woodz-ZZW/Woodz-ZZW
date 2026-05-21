@@ -2,17 +2,17 @@
 
 **Incoming Electrical Engineering student @ University of Waterloo**
 
-I'm passionate about bridging hardware fundamentals with modern software — from circuit design to AI-powered automation tools. Currently exploring how intelligent systems can solve real-world problems.
+I'm passionate about bridging hardware fundamentals with modern software — from circuit design to AI. 
+Currently exploring how intelligent systems can solve real-world problems.
 
 ---
 
 ## About Me
 
 - 🎓 Incoming **BASc Electrical Engineering** student at the **University of Waterloo**
-- 🤖 Interested in **AI/ML**, **embedded systems**, and **automation**
+- 🤖 Interested in **AI/ML**
 - 🔧 I build tools that make workflows smarter and faster
 - 📍 Based in Canada
-- 📫 Reach me at **woodyzhao1004@gmail.com**
 
 ---
 
@@ -20,7 +20,7 @@ I'm passionate about bridging hardware fundamentals with modern software — fro
 
 ### [linkedin-auto-message-skill](https://github.com/Woodz-ZZW/linkedin-auto-message-skill)
 A Claude Code skill that automates personalized outreach to LinkedIn connections using browser automation and MCP.
-- Built with **Node.js**, **Playwright**, and **Claude AI**
+- Built with **Claude AI**
 - Supports batch processing, customizable templates, and parallel agents
 - Integrates with the Model Context Protocol (MCP) ecosystem
 
@@ -42,9 +42,16 @@ A Claude Code skill that automates personalized outreach to LinkedIn connections
 
 ---
 
+## GitHub Stats
+
+![Woody's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Woodz-ZZW&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Woodz-ZZW&layout=compact&hide_border=true)
+
+---
 
 ## Connect With Me
 
+[![Website](https://img.shields.io/badge/Website-woodyzzw.xyz-4285F4?style=flat&logo=safari&logoColor=white)](https://woodyzzw.xyz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/woody-zhao/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Woodz-ZZW)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/WoodyZhao_ZZW)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:woodyzhao1004@gmail.com)
